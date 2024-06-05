@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4f573e8-6f0e-4ee6-987c-6641849e8c74" name="Changes" comment="preparing conflict dev branch" />
+    <list default="true" id="a4f573e8-6f0e-4ee6-987c-6641849e8c74" name="Changes" comment="added project settings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717569399063</updated>
-      <workItem from="1717569400137" duration="4391000" />
+      <workItem from="1717569400137" duration="5376000" />
     </task>
     <task id="LOCAL-00001" summary="add ersterFile.txt to git">
       <option name="closed" value="true" />
@@ -177,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717573021956</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="test guardian">
+      <option name="closed" value="true" />
+      <created>1717574011205</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717574011205</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added project settings">
+      <option name="closed" value="true" />
+      <created>1717576018412</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1717576018412</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +257,8 @@
     <MESSAGE value="first commit in dev" />
     <MESSAGE value="preparing conflict master branch" />
     <MESSAGE value="preparing conflict dev branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="preparing conflict dev branch" />
+    <MESSAGE value="test guardian" />
+    <MESSAGE value="added project settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="added project settings" />
   </component>
 </project>
