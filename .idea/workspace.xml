@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717569399063</updated>
-      <workItem from="1717569400137" duration="5699000" />
+      <workItem from="1717569400137" duration="6177000" />
     </task>
     <task id="LOCAL-00001" summary="add ersterFile.txt to git">
       <option name="closed" value="true" />
@@ -201,7 +201,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717576309280</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added project settings">
+      <option name="closed" value="true" />
+      <created>1717576543331</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1717576543331</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added project settings">
+      <option name="closed" value="true" />
+      <created>1717576843853</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717576843853</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
